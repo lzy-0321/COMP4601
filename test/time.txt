@@ -1,0 +1,17 @@
+wsl:
+Average time for convolution layer 1: 6.70417e-05 s
+Average time for maxpool layer 1: 8.04697e-06 s
+Average time for convolution layer 2: 9.9279e-05 s
+Average time for maxpool layer 2: 9.59609e-07 s
+Average time for convolution layer 3: 1.8955e-05 s
+Average time for fully connected layer: 6.26567e-07 s
+Time for all: 0.000194909 s
+
+petalinux：
+Average time for convolution layer 1: 0.00122832 s
+Average time for maxpool layer 1: 7.09499e-05 s
+Average time for convolution layer 2: 0.00244661 s
+Average time for maxpool layer 2: 9.29716e-06 s
+Average time for convolution layer 3: 0.000487475 s
+Average time for fully connected layer: 1.33817e-05 s
+Time for all: 0.00425603 s

@@ -1,0 +1,17 @@
+wsl;
+Time for convolution layer 1: 6.4098e-05 s
+Time for maxpool layer 1: 7.86e-06 s
+Time for convolution layer 2: 0.000127713 s
+Time for maxpool layer 2: 1.038e-06 s
+Time for convolution layer 3: 5.0982e-05 s
+Time for fully connected layer: 9.23e-07 s
+Time for all: 0.000252614 s
+
+petalinux:
+Time for convolution layer 1: 0.00123996 s
+Time for maxpool layer 1: 7.1351e-05 s
+Time for convolution layer 2: 0.0024693 s
+Time for maxpool layer 2: 9.63e-06 s
+Time for convolution layer 3: 0.000557817 s
+Time for fully connected layer: 1.4101e-05 s
+Time for all: 0.00436216 s
